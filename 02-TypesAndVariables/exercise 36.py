@@ -1,0 +1,5 @@
+buys=float(input('Bank buys EUR: '))
+sells=float(input('Bank sells EUR: '))
+spread=abs(buys-sells)
+spread1=float(round(spread, 4))
+print('Spread: ',spread1)
