@@ -3,4 +3,14 @@
 3. Fish
 4. Water
 5. Cheese
-itemitem& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"item& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"item& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"smth& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"milk& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"milk
+itemitem& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"item& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"item& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"smth& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"milk& "c:/Program Files/python/python.exe" "c:/Users/s-121-04/Desktop/pp1/pp1/07-FileHandling/exercise 14.py"milkitem
+item2
+item3
+C:/Users/DOMINIKA/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/DOMINIKA/OneDrive/Pulpit/pp1(update)/pp1/07-FileHandling/exercise 14.py"
+item
+item2
+item4
+cos
+cos1
+cos2
+cos3

@@ -1,0 +1,6 @@
+The following program
+displays the contents
+of a file, 
+line 
+by 
+line
