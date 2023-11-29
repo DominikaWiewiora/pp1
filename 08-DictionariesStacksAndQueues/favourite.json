@@ -1,0 +1,10 @@
+{
+    "title": "Notebook",
+    "year": 2004,
+    "actor": {
+        "leading": "Rachel McAdams",
+        "supporting": "Joan Allen"
+    },
+    "oscar": false,
+    "genre": "drama"
+}
